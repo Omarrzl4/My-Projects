@@ -1,0 +1,17 @@
+#datei{
+    color: red;
+font-size:30px;
+animation: date;
+          animation-duration: 5s;
+          animation-iteration-count: infinite;
+          border-width: 10px;
+
+          
+}
+@keyframes date {
+    0%{color:  #ff0000;  }
+    20%{ color: #000000;  }
+    40%{color:  #fd0000;   }
+    60%{color: #000000;  }
+    80%{color:  #ff0000; }
+}
