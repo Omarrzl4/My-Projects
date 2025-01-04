@@ -1,0 +1,4 @@
+http://fourseasonshotelsys.atwebpages.com/getRooms.php
+http://fourseasonshotelsys.atwebpages.com/getClients.php
+http://fourseasonshotelsys.atwebpages.com/register.php
+http://fourseasonshotelsys.atwebpages.com/checkout.php
